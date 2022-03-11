@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/documents
-    username: root
-    password: Mundo4278!
+    url: jdbc:postgresql://ec2-52-70-186-184.compute-1.amazonaws.com:5432/dco7daplg7nktl
+    username: wyebyevjztpxvg
+    password: 612a05327bb0b09dd3a89d4613c1a34ec1618f905663885afd2c7974d559d271
   jpa:
     hibernate:
      ddl-auto: none
